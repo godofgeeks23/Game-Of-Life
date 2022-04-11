@@ -1,7 +1,7 @@
 let grid;
-let rows = 50;
-let cols = 50;
-let cell_size = 12;
+let rows = 80;
+let cols = 80;
+let cell_size = 8;
 
 function make2DArray(cols, rows) {
 	let arr = new Array(cols);
